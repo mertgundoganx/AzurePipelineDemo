@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzurePipelineDemo", "AzurePipelineDemo.csproj", "{C0981944-D4E6-4A7A-861F-59E543A8332A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0981944-D4E6-4A7A-861F-59E543A8332A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0981944-D4E6-4A7A-861F-59E543A8332A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0981944-D4E6-4A7A-861F-59E543A8332A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0981944-D4E6-4A7A-861F-59E543A8332A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F8B457-1589-4620-B694-9D1C087BEBC0}
+	EndGlobalSection
+EndGlobal
